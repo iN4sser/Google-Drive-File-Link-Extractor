@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Google Drive Link Extractor
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Soon
 // @author       iN4sser
 // @match        *://drive.google.com/drive/*
+// @updateURL    https://github.com/iN4sser/Google-Drive-File-Link-Extractor/raw/master/Google-Drive-Link-Extractor.user.js
+// @downloadURL  https://github.com/iN4sser/Google-Drive-File-Link-Extractor/raw/master/Google-Drive-Link-Extractor.user.js
 // @grant        none
 // ==/UserScript==
 
