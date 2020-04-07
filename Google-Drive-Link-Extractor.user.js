@@ -16,7 +16,7 @@ window.onload = function(){
     input.type="button";
     input.value="Extract Links!";
     input.onclick = go;
-    input.setAttribute("style", "font-size:18px;position:absolute;top:700px;left:28px");
+    input.setAttribute("style", "position:absolute;top:700px;left:28px;background:linear-gradient(90deg,#0c9 0,#09f);font-size:1.09375vw;font-weight:600;color:white;padding:10px 20px;border-radius:39.0625vw;border:none;text-shadow: 0.2px 0.2px 0.2px #000;");
     document.body.appendChild(input);
 };
 
